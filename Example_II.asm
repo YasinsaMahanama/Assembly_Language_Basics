@@ -8,9 +8,9 @@ MAIN PROC
     MOV CX,7
     
     MOV DX,AX
-    MOV AX,CX
-    MOV CX,BX 
-    MOV BX,DX
+    MOV AX,CX ; AX = 7
+    MOV CX,BX ; CX = 5
+    MOV BX,DX ; BX = 3
  
     
     MAIN ENDP
