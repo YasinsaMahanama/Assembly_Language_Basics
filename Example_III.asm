@@ -1,0 +1,22 @@
+.MODEL SMALL
+.DATA 
+    NUM1 DB 6
+    NUM2 DB 3
+    SUM DB 0
+    DEF DB 0
+.CODE
+
+MAIN PROC 
+    MOV AX,@DATA
+    MOV DS,AX
+  
+    MOV AL,NUM1
+    ADD AL,NUM2
+    MOV SUM,AL  
+    
+    MOV AL,NUM1
+    SUB AL,NUM2
+    MOV DEF,AL
+    
+    MAIN ENDP
+END
