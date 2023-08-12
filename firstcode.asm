@@ -1,0 +1,7 @@
+.MODEL SMALL
+.DATA        
+.CODE
+ 
+ MAIN PROC
+    MAIN ENDP
+ END 
