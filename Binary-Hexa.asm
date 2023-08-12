@@ -1,0 +1,11 @@
+.MODEL SMALL
+.DATA 
+.CODE
+
+MAIN PROC 
+    
+    MOV AL,10100101b
+  
+    
+    MAIN ENDP
+END
