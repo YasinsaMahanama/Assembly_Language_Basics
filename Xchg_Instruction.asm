@@ -1,0 +1,12 @@
+.MODEL SMALL
+.DATA 
+.CODE
+
+MAIN PROC
+    MOV AL,3
+    MOV BL,5 
+    
+    XCHG AL,BL,
+    
+    MAIN ENDP
+END
