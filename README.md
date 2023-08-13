@@ -1,7 +1,5 @@
 # Assembly_Language_Basics
 
-# Assembly Language Examples and Resources
-
 ![banner](https://github.com/YasinsaMahanama/Assembly_Language_Basics/assets/122031127/e8392720-1676-4360-9bc5-241442585bba)
 
 
