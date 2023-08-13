@@ -2,7 +2,8 @@
 
 # Assembly Language Examples and Resources
 
-![Assembly Language Banner](banner.jpg)
+![banner](https://github.com/YasinsaMahanama/Assembly_Language_Basics/assets/122031127/e8392720-1676-4360-9bc5-241442585bba)
+
 
 Welcome to the Assembly Language Examples and Resources repository! This repository serves as a learning hub for assembly language programming enthusiasts. Assembly language is a low-level programming language that bridges the gap between human-readable code and machine-executable instructions. It provides a direct interface to a computer's hardware components and is used for tasks that require precise control over hardware resources.
 
