@@ -1,0 +1,13 @@
+.MODEL SMALL
+.DATA
+    NUM DB 255
+.CODE
+
+MAIN PROC
+    MOV AX,@DATA
+    MOV DS,AX
+    
+    MOV AL,NUM
+    INC AL
+    MAIN ENDP
+END
