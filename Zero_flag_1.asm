@@ -1,0 +1,18 @@
+.MODEL SMALL
+.DATA 
+    NUM1 DB 5
+    NUM2 DB 5
+.CODE
+
+MAIN PROC 
+    
+    MOV AX,@DATA
+    MOV DS,AX 
+    
+    MOV AL,NUM1
+    MOV BL,NUM2
+    
+    SUB AL,BL
+   
+    MAIN ENDP
+END
