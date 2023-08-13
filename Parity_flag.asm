@@ -1,0 +1,11 @@
+.MODEL SMALL
+.DATA 
+.CODE
+
+MAIN PROC 
+    
+    MOV AL,4
+    ADD AL,1
+   
+    MAIN ENDP
+END
